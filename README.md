@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+NIX/foma1haut here, just a common college student :D
+
 <!--
 **LinearAlgebraX/LinearAlgebraX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
